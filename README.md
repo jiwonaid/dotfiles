@@ -4,6 +4,8 @@
 
 pre-commit
 
+asdf
+
 ## iTerm2
 
 ohmyzsh
