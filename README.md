@@ -6,6 +6,10 @@ pre-commit
 
 asdf
 
+golangci-lint
+
+staticcheck
+
 ## iTerm2
 
 ohmyzsh
