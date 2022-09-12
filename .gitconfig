@@ -6,5 +6,5 @@
 [user]
         name = Jiwon Kim
         email = jiwonaid0@gmail.com
-[includeIf "gitdir:~/Projects/"]
-  path = ~/.gitconfig-projects
+# [includeIf "gitdir:~/Projects/"]
+#   path = ~/.gitconfig-projects
