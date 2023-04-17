@@ -7,6 +7,7 @@
         name = Jiwon Kim
         email = jiwonaid0@gmail.com
 # [includeIf "gitdir:~/Projects/"]
-#   path = ~/.gitconfig-projects
+#         path = ~/.gitconfig-projects
 [alias]
-pr = !sh -c \"git fetch upstream pull/$1/head && git checkout -b pull-$1 FETCH_HEAD\" -
+        ac = !git add -A && git commit -m
+        pr = !sh -c \"git fetch upstream pull/$1/head && git checkout -b pull-$1 FETCH_HEAD\" -
