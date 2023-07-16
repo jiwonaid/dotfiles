@@ -22,13 +22,15 @@ staticcheck
 
 ## Visual Studio Code
 
-Shell Command: Install 'code' command in PATH
+Editor: Word Wrap
 
 Files: Auto Save
 
 Files: Insert Final Newline
 
 Files: Trim Trailing Whitespace
+
+Shell Command: Install 'code' command in PATH
 
 Tabnine
 
