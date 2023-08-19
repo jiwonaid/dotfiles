@@ -32,8 +32,6 @@ Files: Trim Trailing Whitespace
 
 Shell Command: Install 'code' command in PATH
 
-Tabnine
-
 markdownlint
 
 Marp
