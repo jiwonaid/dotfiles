@@ -48,8 +48,6 @@ kubemgr
 
 ## From macOS to Windows(PowerToys)
 
-Alt to Ctrl
-
 Caps Lock to Ctrl
 
 Ctrl Space to IME Hangul
