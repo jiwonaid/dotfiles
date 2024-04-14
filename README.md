@@ -16,10 +16,6 @@ asdf
 
 pre-commit
 
-golangci-lint
-
-staticcheck
-
 ## Visual Studio Code
 
 Editor: Word Wrap
