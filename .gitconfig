@@ -11,4 +11,5 @@
 [alias]
     s = status
     ac = !git add -A && git commit -m
+    tp = !git tag "$@" && git push --tags
     pr = !sh -c \"git fetch upstream pull/$1/head && git checkout -b pull-$1 FETCH_HEAD\" -
